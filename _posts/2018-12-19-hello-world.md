@@ -30,12 +30,15 @@ If you've already read all those titles and you feel pretty comfortable with the
 However, we can now create declarations that are bound to any block, called (unsurprisingly) *block scoping*. This means all we need is a pair of `{ .. }` to create a scope. Instead of using var, which always declares variables attached to the enclosing function (or global, if top level) scope, use `let`:
 
 {% highlight js %}
-var a = 2;
 
-{
-    let a = 3;
-    console.log( a );   // 3
-}
-
-console.log( a );       // 2
+def fibonacci(n):
+    if n > 1:
+        return fibonacci(n - 1) + fibonacci(n - 2)
+    else:
+        if n < 0:
+            return None
+        elif n == 0:
+            return 0
+        elif n == 1:
+            return 1
 {% endhighlight %}
