@@ -10,4 +10,5 @@ active: about
 
 
 On Twitter:  {{site.twitter_username}}
+
 On GitHub:  {{site.github_username}}
