@@ -4,7 +4,7 @@ layout: post
 title:  "StormLight Archive - Brandon Sanderson"
 crawlertitle: "Stormligh Archive"
 summary: "Stormlight Archive"
-date:   2020-01-02 17:17:58 +0700
+date:   2020-01-01 17:17:58 +0700
 categories: posts
 genre: Fantasy
 type: series

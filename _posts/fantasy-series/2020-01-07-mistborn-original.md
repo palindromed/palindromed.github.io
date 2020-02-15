@@ -2,9 +2,9 @@
 bg: "tools.jpg"
 layout: post
 title:  "Mistborn (Original Trilogy) - Brandon Sanderson"
-crawlertitle: "Original Mistbon Trilogy"
+crawlertitle: "Original Mistborn Trilogy"
 summary: "Original Mistborn Trilogy"
-date:   2020-01-02 17:17:58 +0700
+date:   2020-01-07 17:17:58 +0700
 categories: posts
 genre: Fantasy
 type: Series
