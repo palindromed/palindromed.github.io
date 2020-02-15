@@ -20,3 +20,8 @@ I got curious about cryptography in 2018. There are a few resources I've enjoyed
 * The Code Book by [Simon Singh](https://simonsingh.net/books/the-code-book/)
 
 
+* The Rithmatist
+* Warbreaker
+* The Emporer's Soul
+* Snapshot
+* Elantris
