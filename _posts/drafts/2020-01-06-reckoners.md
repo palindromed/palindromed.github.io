@@ -6,7 +6,8 @@ crawlertitle: "Reckoners"
 summary: "Reckoners"
 date:   2020-01-06 17:17:58 +0700
 categories: posts
-genre: Fantasy
+genre: Fantasy Series
+tags: ["Read Again"]
 author: palindromed
 ---
 

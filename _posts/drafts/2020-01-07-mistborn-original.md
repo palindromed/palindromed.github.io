@@ -6,8 +6,9 @@ crawlertitle: "Original Mistborn Trilogy"
 summary: "Original Mistborn Trilogy"
 date:   2020-01-07 17:17:58 +0700
 categories: posts
-genre: Fantasy
+genre: Fantasy Series
 type: Series
+tags: ["Read Again"]
 author: palindromed
 ---
 

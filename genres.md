@@ -51,10 +51,10 @@ The following part removes dulpicated tags and invalid tags like blank tag.
         <li>
           {% if p.lastmod %}
             <a href="{{ p.url | relative_url}}">{{ p.title }}</a>
-            <span class="date">{{ p.lastmod | date: "%d-%m-%Y"  }}</span>
+            <span class="date">{{ p.lastmod | date: "%m-%d-%Y"  }}</span>
           {% else %}
             <a href="{{ p.url | relative_url}}">{{ p.title }}</a>
-            <span class="date">{{ p.date | date: "%d-%m-%Y"  }}</span>
+            <span class="date">{{ p.date | date: "%m-%d-%Y"  }}</span>
           {% endif %}
         </li>
       {% endif %}
