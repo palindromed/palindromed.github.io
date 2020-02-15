@@ -4,6 +4,7 @@ layout: default
 <article class="post">
 
   <h1 class="post-title">{{ page.title }}</h1>
+  <h2 class="post-title">{{page.genre}}</h2>
 
   <p class="post-meta">
     <time datetime="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date: "%d-%m-%Y" }}</time>
@@ -17,6 +18,12 @@ layout: default
   <div class="post-content">
 
     {{ content }}
+
+    {% if page.links %}
+    <a class="link-to-post" href="{{ page.links | relative_url}}">Link to other post</a>
+
+    {% endif %}
+
 
     <div class="post-links">
       {% if page.next.url %}
@@ -32,6 +39,8 @@ layout: default
           <span class="link-to-post__title">{{ page.previous.title }}</span>
         </a>
       {% endif %}
+
+
     </div>
 
   </div>
