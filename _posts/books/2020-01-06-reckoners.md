@@ -7,7 +7,7 @@ summary: "Reckoners"
 date:   2020-01-06 17:17:58 +0700
 categories: posts
 genre: Fantasy Series
-tags: ["Read Again"]
+tags: ["Read"]
 author: palindromed
 ---
 
@@ -19,7 +19,7 @@ Complete Trilogy
 
 Type: Audio (MacLeod Andrews)
 
-Notes: This is a YA series. Not my favorite genre but Sanderson is great. Haven't read the novella but have read the trilogy.
+Notes: This is a YA series. Not my favorite genre but Sanderson is great. Haven't read the novella but have read the trilogy. Enjoyed it but unlikely to read again.
 
 ## Steelheart (Book 1 - 2013)
 
